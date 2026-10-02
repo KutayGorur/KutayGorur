@@ -1,2 +1,3 @@
 # KutayGorur
-Hi, my name is Kutay Görür. I am a freshman at Bilkent University who is currently studying Computer Science.
+Hi, I'm Kutay. I am sophomore CS student at Bilkent University. 
+Building projects just for the sake of it ;)
